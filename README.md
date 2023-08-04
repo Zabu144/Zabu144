@@ -1,7 +1,7 @@
 ### Hi! I'm Luis Eduardo Muniz Lopes
 
 - 🔭 I’m currently working on Dit - IFAL
-- 🌱 I’m currently learning Python, Golang
+- 🌱 I’m currently learning Python, Java
 
 <div align="center">
   <a href="https://github.com/Zabu144">
