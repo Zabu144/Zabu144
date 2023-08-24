@@ -16,6 +16,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40">
 </p>
 
+<!-- Seção de Estatísticas -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/username/repo-name?style=flat-square" alt="Repository Size">
+  <img src="https://img.shields.io/github/commit-activity/m/username/repo-name?style=flat-square" alt="Commit Activity">
+  <img src="https://img.shields.io/github/last-commit/username/repo-name?style=flat-square" alt="Last Commit">
+</p>
+
 <!-- Seção de Contato -->
 <h2 align="center">📫 Connect with me</h2>
 <p align="center">
